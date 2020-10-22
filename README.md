@@ -21,4 +21,7 @@ I decided to do the front-end with JavaScript and handle requests with Ajax.
 
 **If you're interested to test the app, feel free to play around with it on heroku:**
 
-**https://ccipher.herokuapp.com/**
+This project was created as one of my first assignments at Florida International University, Creating a Caesar Cipher and Deploying it to Heroku. 
+
+
+**Please visit: https://sinas-caesar-cipher.herokuapp.com**
